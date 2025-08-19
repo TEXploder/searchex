@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
 <meta charset="utf-8">
-<title>searchex – Dokumentation</title>
+searchex – Dokumentation
 </head>
 <body>
 <h1>searchex – Dokumentation</h1>
