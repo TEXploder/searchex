@@ -195,7 +195,7 @@ Aktuell nicht dauerhaft; QSettings ließe sich einfach hinzufügen.</p>
 <hr>
 
 <h2 id="lizenz">14. Lizenz</h2>
-<p>MIT‑Lizenz (Projektinhaber eintragen).</p>
+<p>MIT‑Lizenz.</p>
 
 </body>
 </html>
